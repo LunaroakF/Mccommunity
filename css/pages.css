@@ -1,0 +1,37 @@
+.card{
+    padding-top: 0px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: skyblue; 
+    /* background-image: url(../images/home-hero-1200x600.jpg); */
+    /* position: relative; */
+    background-size: cover; 
+    background-position: center;
+    border-radius: 10px;
+    transition: all 0.5s ease;
+}
+.card:hover{
+    padding-top: 0px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: skyblue;
+    /* background-image: url(../images/home-hero-1200x600light.jpg); */
+    /* position: relative; */
+    background-size: cover; 
+    border-radius: 20px;
+}
+.cardmains{
+    padding-top: 0px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: seagreen;
+    /* background-image: url(../images/home-hero-1200x600.jpg); */
+    /* position: relative; */
+    background-size: cover; 
+    background-position: center;
+    border-radius: 10px;
+    transition: all 1s ease;
+}
+.cardmains:hover{
+    background-color: olive;
+}
